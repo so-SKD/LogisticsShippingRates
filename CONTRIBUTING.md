@@ -1,13 +1,20 @@
-# Contributing Guidelines
+Contribution guidelines
+Welcome Contributors!
+Thank you for considering contributing to the centralized repository. This document outlines the guidelines for contributing to the development of Shipping Rates and Calculations.
 
-Thank you for your interest in contributing to this project! We welcome contributions from the community. Please follow these guidelines to ensure a smooth collaboration process.
+Code style
+Please follow the coding style and conventions used in the existing codebase. This helps maintain consistency across the project.
 
-## How to Contribute
+Documentation
+Ensure that your contributions are well-documented. Include comments in your code where necessary and provide a clear and concise description of your changes in the pull request.
 
-1. **Fork the repository**  
-   Click the "Fork" button at the top-right of the repository page to create a copy under your GitHub account.
+Testing
+Before submitting a pull request, make sure your changes have been tested thoroughly. Include relevant test cases and ensure that existing tests pass.
 
-2. **Clone your fork**  
-   ```bash
-   git clone https://github.com/your-username/your-forked-repo.git
-   cd your-forked-repo
+Issue tracker
+Check the issue tracker for any open issues or feature requests. If you're working on something, please comment on the issue to let others know.
+
+Code review
+All contributions will go through a code review process. Be open to feedback and be willing to make changes if necessary. Code reviews help maintain code quality and consistency.
+
+Thank you for your contribution!
